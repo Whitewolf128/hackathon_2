@@ -19,3 +19,33 @@ body {
 #history h3 {
     color: #5C4033;
 }
+
+#header{
+    padding: 50px;
+    margin: 50px;
+    color: black;
+    border-bottom: solid 5px #D4AF37;
+}
+ 
+#louis{
+    color: #5C4033;
+   
+}
+ 
+#riel{
+   color: #5C4033;
+}
+ 
+#fun{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 50px;
+    margin: 50px;
+    color: black;
+    border-bottom: solid 5px #D4AF37;
+}
+ 
+@media screen and(max-width:800px) {
+    body{
+        width: 100%;/* The width is 100%, when the viewport is 800px or smaller */
+    }
+}

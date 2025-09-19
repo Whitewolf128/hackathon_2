@@ -3,7 +3,8 @@
 ## Project Overview
 
 This webpage is about the historical figure Louis Riel which will outline his
-life, events, and historical significance.
+life, events, and historical significance. We will be taking out previous HTML
+code from Hackathon 1 and improving its responsiveness and visuals using CSS.
 
 ## Team Members:
 
@@ -15,12 +16,13 @@ life, events, and historical significance.
 
 ### Zachary:
 
--   Worked on Header, h1, and div of the webpage.
+-   Worked on Header, h1, and div of the webpage. Applying CSS on these sections
 
 ### Harman:
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Was responsible for the legacy section of the page, also applying CSS on these
+sections
 
 ### Patrick:
 
--   Handled [specific sections], covering [specific topics or features].
+-   Handled the history section and the CSS applications on this section.

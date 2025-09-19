@@ -1,0 +1,21 @@
+body {
+    background-color: #ffffe0;
+}
+#history {
+    font-family: Arial, sans-serif;
+    display: block;
+    align-content: center;
+    max-width: 1400px;
+    padding: 20px;
+    margin: 20px 50px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+#history h2 {
+    color:#5C4033;
+}
+
+#history h3 {
+    color: #5C4033;
+}
